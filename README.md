@@ -1,2 +1,2 @@
-# testapps
-test applications
+# RTL test API
+Just debug the integration test "ShowTest"
